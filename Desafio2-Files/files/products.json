@@ -1,0 +1,29 @@
+[
+	{
+        "title": "Campera",
+        "description":"de cuero",
+        "price": 9230.45,
+        "thumbnail": "https://cdn1.iconfinder.com/data/icons/fashion-135/128/hoodie_sweatshirt_shirt_fashion_clothing-512.png",
+        "code":345,
+        "stock":34,
+        "id": 1
+    },
+    {
+        "title": "Remera",
+        "description":"de polyester",
+        "price": 456.0,
+        "thumbnail": "https://cdn1.iconfinder.com/data/icons/fashion-135/128/tshirt_male_clothes_shirt_fashion-512.png",
+        "code":777,
+        "stock":50,
+        "id": 2
+    },
+    {
+        "title": "Notebook",
+        "description":"HP",
+        "price": 200000.0,
+        "thumbnail": "https://cdn1.iconfinder.com/data/icons/office-material-5/128/laptop_laptops._laptop_computer_computer_computing-512.png",
+        "code":555,
+        "stock":500,
+        "id": 3
+    }
+]
